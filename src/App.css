@@ -1,0 +1,17 @@
+.cell{
+  width: 60px;
+  height: 60px;
+  margin: 2px;
+}
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  width: 560px;
+  height: 560px;
+  position: relative;
+}
+.score{
+  font-size: 40px;
+  position: absolute;
+  left: 560px;
+}
